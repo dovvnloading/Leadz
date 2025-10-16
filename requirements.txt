@@ -1,0 +1,7 @@
+beautifulsoup4
+duckduckgo-search
+ollama
+PySide6
+requests
+scikit-learn
+sentence-transformers
