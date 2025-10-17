@@ -1,4 +1,4 @@
-<img width="838" height="415" alt="Leadz_Banner_001" src="https://github.com/user-attachments/assets/4486556c-e908-46bf-aaf8-38418e31c10b" />
+<img width="838" height="415" alt="Leadz_Banner_001" src="https://github.com/user-attachments/assets/1218f91c-385d-421f-b155-e4e36b2f5c76" />
 
 # Leadz
 
